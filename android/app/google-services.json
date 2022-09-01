@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "344830245562",
+    "project_id": "firemail-59a51",
+    "storage_bucket": "firemail-59a51.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344830245562:android:cc93d20bab775ef51e2083",
+        "android_client_info": {
+          "package_name": "com.example.email2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "344830245562-prh388tuf0vg7kc1eg52l5cgqv8b8m33.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDf2YTZKPWl0Urj5XsJE4QsUkCuESat_nE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "344830245562-prh388tuf0vg7kc1eg52l5cgqv8b8m33.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
