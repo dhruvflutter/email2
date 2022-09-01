@@ -24,7 +24,7 @@ class _insertpageState extends State<insertpage> {
           return viewpage();
         },));
       },),
-      appBar: AppBar(title: Text("RealTime Database"),),
+      appBar: AppBar(title: Text("RealTime Database lalit"),),
       body: Column(
         children: [
           TextField(controller: tname),
